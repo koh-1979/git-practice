@@ -1,2 +1,2 @@
-# git-practice
-training-git-hub
+"# Git Practice Repository" 
+"This is a repository for practicing Git commands." 
